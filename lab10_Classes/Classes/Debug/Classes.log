@@ -1,8 +1,0 @@
-﻿  Classes.cpp
-  Octal.cpp
-C:\Users\Emperor\ТюмГУ\С++ 1\lab10_Classes\Classes\Octal.cpp(34,3): warning C4145: &&: использование выражения с оператором отношения в качестве выражения для выбора вариантов; возможное смешение с "&"
-C:\Users\Emperor\ТюмГУ\С++ 1\lab10_Classes\Classes\Octal.cpp(47,19): warning C4018: <=: несоответствие типов со знаком и без знака
-C:\Users\Emperor\ТюмГУ\С++ 1\lab10_Classes\Classes\Octal.cpp(114,43): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-C:\Users\Emperor\ТюмГУ\С++ 1\lab10_Classes\Classes\Octal.cpp(129,43): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-  Создание кода...
-  Classes.vcxproj -> C:\Users\Emperor\ТюмГУ\С++ 1\lab10_Classes\Debug\Classes.exe
