@@ -1,0 +1,3 @@
+﻿  Functions.cpp
+C:\Users\Emperor\ТюмГУ\С++ 1\Lab_8_Types_Structures\TypesStructures\Functions.cpp(149): warning C4715: GetStackElement: значение возвращается не при всех путях выполнения
+  TypesStructures.vcxproj -> C:\Users\Emperor\ТюмГУ\С++ 1\Lab_8_Types_Structures\Debug\TypesStructures.exe

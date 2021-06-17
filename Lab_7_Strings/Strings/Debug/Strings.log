@@ -1,0 +1,6 @@
+﻿  Strings.cpp
+C:\Users\Emperor\ТюмГУ\С++ 1\Lab_7_Strings\Strings\Strings.cpp(151,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\ТюмГУ\С++ 1\Lab_7_Strings\Strings\Strings.cpp(196,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Emperor\ТюмГУ\С++ 1\Lab_7_Strings\Strings\Strings.cpp(204,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Emperor\ТюмГУ\С++ 1\Lab_7_Strings\Strings\Strings.cpp(227,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Strings.vcxproj -> C:\Users\Emperor\ТюмГУ\С++ 1\Lab_7_Strings\Debug\Strings.exe
